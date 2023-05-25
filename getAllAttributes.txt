@@ -1,0 +1,1 @@
+console.table($$('[data-testid^=unreco]').map((e) => e.getAttribute('aria-label')))
